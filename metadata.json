@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Mystic Mirror",
+  "description": "您通往宇宙洞見的個人入口。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
